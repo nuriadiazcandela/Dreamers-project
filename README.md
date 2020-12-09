@@ -1,28 +1,29 @@
-![Adalab](https://beta.adalab.es/resources/images/adalab-logo-155x61-bg-white.png)
+# Dreamers
 
-# Adalab web starter kit
+Este es el **proyecto del módulo 01 de Adalab**. El proyecto consiste en el desarrollo de una web colaborativa del equipo **Dreamers**. El objetivo principal es mostrar las capacidades y habilidades de las integrantes del equipo, con el fin de que las empresas puedan conocer nuestro trabajo y facilitar el contacto si quisieran contar con nosotras para sus proyectos. Este producto ofrece una forma dinámica e interactiva de conocer nuestras capacidades como programadoras, tanto a nivel equipo como individual, ya que es una forma cómoda y práctica de encontrar programadoras junior con habilidades distinguidas, y por tanto facilita la interacción entre recruiters y candidatas.
 
-Ahoy! Este es nuestro Starter Kit creado en **node y gulp**. ¿Y qué es un Starter kit? Pues es una **plantilla de proyecto con funcionalidades preinstaladas y preconfiguradas**.
+## Demo
 
-Este Kit incluye un motor de plantillas HTML, el preprocesador SASS y un servidor local y muchas cosas más. El Kit nos ayuda a trabajar más cómodamente, nos automatiza tareas.
+Para ver el resultado del desarrollo de la página web puedes visitar el siguiente enlace: http://beta.adalab.es/project-promo-k-module-1-team-9/.
 
-En el Kit hay 3 tipos de ficheros y carpetas:
+## Tecnologías utilizadas
 
-- Los ficheros que están sueltos en la raíz del repositorio, como gulpfile.js, package.json... Son la configuración del proyecto y no necesitamos modificarlos.
-- La carpeta `src/`: son los ficheros de nuestra página web, como HTML, CSS, JS...
-- Las carpetas `public/` y `docs/`, que son generadas automáticamente cuando arrancamos el proyecto. El Kit lee los ficheros que hay dentro de `src/`, los procesa y los genera dentro de `public/` y `docs/`.
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width=40px/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width=40px/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width=40px/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width=40px/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=40px/>
 
-## Guía de inicio rápido
+Nuestra página está maquetada en HTML5 y CSS3. Además, nos hemos servido del preprocesador SASS y de Gulp. Con la utilización de estas tecnologías hemos conseguido automatizar tareas, trabajar con un código más ordenado y limpio, a la vez que optimizado para que nuestra web cargue rápidamente. Con respecto al control de versiones, hemos creado diferentes ramas según la funcionalidad de cada una, solventando los conflictos con soltura.
 
-> **NOTA:** Necesitas tener instalado [Node JS](https://nodejs.org/) para trabajar con este Starter Kit:
+El desarrollo del ejercicio se ha llevado a cabo utilizando el [Starter Kit de Adalab](https://github.com/Adalab/adalab-web-starter-kit), creado en node y gulp. Se trata de una plantilla de proyecto con funcionalidades preinstaladas y preconfiguradas. Este Kit incluye un motor de plantillas HTML, el preprocesador SASS y un servidor local, además de otras herramientas como Gulp, que nos ayuda en la automatización de tareas.
 
-### Pasos a seguir cada vez que queremos arrancar un proyecto desde cero:
+## Instalación
 
-1. **Crea tu propio repositorio.**
-1. Descarga este **Starter kit desde GitHub**.
-   - No recomendamos que clones este repo ya que no podrás añadir commits.
-1. **Copia todos los ficheros** de este Starter kit en la carpeta raíz de tu repositorio.
-   - Recuerda que debes copiar **también los ficheros ocultos**.
-   - Si has decidido clonar este repo, no debes copiar la carpeta `.git`. Si lo haces estarás machacando tu propio repositorio.
-1. **Abre una terminal** en la carpeta raíz de tu repositorio.
-1. **Instala las dependencias** locales ejecutando en la terminal el comando:
+Para poder usar este proyecto tienes que seguir estos pasos:
+
+- Clonar el repositorio
+- Instalar las dependencias con `npm install`
+- Arrancar el proyecto con `npm start`
+
+---
+
+Este proyecto ha sido desarrollado por **[Lucia Mezquida](https://github.com/LuciaMezquida), [Yanira Fernandez](https://github.com/yanirafr), [Irina Tveritneva](https://github.com/itveritneva) y [Nuria Díaz](https://github.com/nuriadiazcandela)**.
+
+_Dreamers @ 2020_
